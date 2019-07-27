@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>Variable</title>
+  </head>
+<body>
+   <script type="text/javascript">
+   var x = 35;
+   document.write(x);
+   </script>
+</body>
+</html>
