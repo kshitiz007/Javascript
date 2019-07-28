@@ -1,0 +1,13 @@
+<html>
+    <head>
+      <title>variable with string</title>
+    </head>
+  <body>
+    <script type="text/javascript">
+	var x = "i am";		  //var x = "i am kshitij"
+  var y = 21;			   //var y = "and my age is";
+					          //var z = 21;
+      document.write(x + " kshitij and my age is " + y); //document.write(x+y+z);
+    </script>
+  </body>
+</html>
