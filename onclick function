@@ -1,0 +1,16 @@
+<html>
+    <head>
+      <title>function</title>
+    </head>
+  <body>
+    <script type="text/javascript">
+		function prog()
+		{
+			alert ("Successfull");
+		}
+    </script>
+	<form>
+		<input type="button" value="click me" onclick="prog()">
+	</form>
+  </body>
+</html>
