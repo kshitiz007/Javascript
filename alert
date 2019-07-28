@@ -1,0 +1,14 @@
+<html>
+    <head>
+      <title>function</title>
+    </head>
+  <body>
+    <script type="text/javascript">
+		function prog()
+		{
+			alert ("Successfull");
+		}
+prog();
+    </script>
+  </body>
+</html>
