@@ -1,0 +1,37 @@
+<html>
+    <head>
+      <title>function</title>
+    </head>
+  <body>
+    <script type="text/javascript">
+		var x = 56;
+		x--;
+		document.write(x);
+		
+		var f = 56;
+		document.write(f);
+		f++;
+		
+		var y = 58+55;
+		document.write(y);
+		
+		var a = 58-55;
+		document.write(a);
+		
+		var b = 58*55;
+		document.write(b);
+		
+		var c = 58/55;       // "/" returns you the value quotient
+		document.write(c);
+		
+		var d = 58%55;      // "%" returns you the remainder
+		document.write(d);
+		
+		var e = 58;
+		e=e+1;
+		document.write(e);
+		
+		
+    </script>
+  </body>
+</html>
