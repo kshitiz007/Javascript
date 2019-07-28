@@ -1,0 +1,14 @@
+<html>
+    <head>
+      <title>function</title>
+    </head>
+  <body>
+    <script type="text/javascript">
+		  document.write(Math.PI);
+		  document.write(Math.E);
+		  var x = prompt("Enter the number","")
+		  var result = Math.sqrt(x);
+		  document.write("The square root of "+x+" is " +result);  //alert("The square root of "+x+" is " +result);
+    </script>
+  </body>
+</html>
